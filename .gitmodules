@@ -1,6 +1,6 @@
 [submodule "082323/webphotostorage/frontend"]
     path = 082323/webphotostorage/frontend
-    url = https://github.com/neuroz68/wednesday_reg_meetings.git
+    url = https://github.com/neuroZ68/wednesday_meeting_082323_1.git
 
 [submodule "082323/webphotostorage_2/frontend"]
     path = 082323/webphotostorage_2/frontend
